@@ -6,6 +6,8 @@
 
 App flow: https://docs.google.com/drawings/d/1cfbV-yugh6sdzjfmG5UQeC77wK681DQGgJ6oeb6bvJw/edit?usp=sharing
 
+# Wireframes: https://docs.google.com/drawings/d/1rFktVhrxRbVKXIcI-BV_-SN8PillyWk85imD5IMW_Iw/edit?usp=sharing
+
 Users (who are they):
 
 - Fashion lovers who are sick of never being able to find what to wear.
