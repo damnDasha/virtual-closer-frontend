@@ -6,6 +6,7 @@ import PublicOnlyRoute from "./Utils/PublicOnlyRoute";
 import React, { Component } from "react";
 import StartScreen from "./StartScreen/StartScreen";
 import LoginPage from "./LoginPage/LoginPage";
+import Info from "./Info/Info";
 import Register from "./Register/Register";
 
 export class App extends Component {
@@ -70,6 +71,7 @@ export class App extends Component {
       <VirtualContext.Provider value={value}>
         <div className="App">
           <PublicOnlyRoute exact path="/" component={StartScreen} />
+          <PublicOnlyRoute exact path="/Info" component={Info} />
 
           <PublicOnlyRoute exact path="/login" component={LoginPage} />
           <PublicOnlyRoute exact path="/register" component={Register} />
